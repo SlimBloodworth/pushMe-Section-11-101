@@ -8,7 +8,7 @@
 
 ## Overview
 
-This an exercise from the Git and Github Bootcamp course I'm taking through Udemy. The course is instructed by Colt Steele. This is 2 practice exercise (lesson # 101) from Section 11.
+This an exercise from the Git and Github Bootcamp course I'm taking through Udemy. The course is instructed by Colt Steele. This is a practice exercise (lesson # 101) from Section 11.
 
 ### Links
 
