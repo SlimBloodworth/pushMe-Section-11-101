@@ -1,1 +1,4 @@
 git push -u origin main lesson 102, Section 11.
+This lesson is over using the git push -u origin <branch-name> command.
+This command allows upstreaming of the branch we're pushing, telling Gihub to remember that the local branch is connected to the <branch-name> in the repo.
+Allowing the use of git push as a shortcut going forward.
